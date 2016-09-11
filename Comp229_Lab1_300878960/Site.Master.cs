@@ -13,7 +13,7 @@ namespace Comp229_Lab1_300878960
         protected void Page_Load(object sender, EventArgs e)
         {
             var h1 = new HtmlGenericControl("h1");
-            h1.InnerHtml = "Mudrak Patel here!";
+            h1.InnerHtml = "Mudrak Patel's page";
         }
     }
 }
